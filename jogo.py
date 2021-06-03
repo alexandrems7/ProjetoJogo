@@ -7,7 +7,7 @@ from time import sleep
 personagem = Personagem()
 academia = Academia()
 relogio = Relogio()
-
+#Alteração do arquivo
 
 if(__name__ == "__main__"):
     while True:
